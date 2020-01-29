@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{gem show copyright.}
   spec.description   = %q{Add a copyright at the bottom of the page.}
-  spec.homepage      = "mrc.com"
+  spec.homepage      = "https://mrc.com"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
