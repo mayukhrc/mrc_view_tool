@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-		RoyChowdhuryViewTool::Renderer.copyright 'MRC', 'All rights reserved'
+	MrcViewTool::Renderer.copyright 'MRC', 'All rights reserved'
 
 ## Development
 
